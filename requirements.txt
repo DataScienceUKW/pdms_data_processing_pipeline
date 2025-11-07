@@ -1,0 +1,15 @@
+numpy==2.3.3
+pandas==2.3.2
+SQLAlchemy==2.0.43
+pyodbc==5.2.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+python-dotenv==1.1.1
+pydantic==2.11.9
+pydantic_core==2.33.2
+cramjam==2.11.0
+fastparquet==2024.11.0
+fsspec==2025.10.0
+pyarrow==22.0.0
+pdms-extraction==0.1.0
