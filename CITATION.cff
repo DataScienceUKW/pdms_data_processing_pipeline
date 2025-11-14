@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pdms_data_processing_pipeline"
+version: "1.0.0"
+date-released: 2025-11-14
+
+authors:
+  - family-names: Schrader
+    given-names: Nikolas B.
+    orcid: "https://orcid.org/0009-0001-4616-3804"
+
+repository-code: "https://github.com/DataScienceUKW/pdms_data_processing_pipeline"
+
+keywords:
+  - PDMS
+  - ETL
+  - intensive care
+  - clinical data
+  - data extraction
+  - Python
+  - SQL
+  - reproducible research
+
+license: "Proprietary – All Rights Reserved"
+
+preferred-citation:
+  type: software
+  title: "pdms_data_processing_pipeline"
+  version: "1.0.0"
+  url: "https://github.com/DataScienceUKW/pdms_data_processing_pipeline"
+  authors:
+    - family-names: Schrader
+      given-names: Nikolas B.
+  date-released: 2025-11-14
