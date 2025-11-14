@@ -224,6 +224,20 @@ Tests cover connection setup, schema validation, hashing, and pipeline behavior.
 - **IDs not hashed in output**  
   Check if `hash_salt=None` was set. Provide a non-empty salt to enable hashing and safe joins.
 
+---
+
+Citation
+
+If you use or refer to this code, please cite:
+
+Schrader NB. pdms_data_processing_pipeline [software]. Version 1.0.0.
+University Hospital Würzburg; 2025.
+Available from: https://github.com/DataScienceUKW/pdms_data_processing_pipeline
+
+A machine-readable CITATION.cff file is included.
+
+---
+
 ## License
 
 See [LICENSE](./LICENSE) — © 2025 Dr. Nikolas B. Schrader. All rights reserved.
