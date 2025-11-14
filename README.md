@@ -1,5 +1,16 @@
 # PDMS Extraction
 
+**Archived Repository Notice**  
+*This repository has been archived to ensure immutability for scientific referencing.  
+It remains accessible for inspection and reuse for non-commercial academic purposes,  
+but is no longer modified or actively maintained.*
+
+This repository contains a minimal, secure, and auditable data extraction pipeline designed for Patient Data Management Systems (PDMS). It demonstrates the **demographic data** extraction workflow used in our institutional environment, including pseudonymization, schema validation, and full audit logging.
+
+The full operational ETL pipeline used in clinical production cannot be released, as it is tightly coupled to the institution-specific PDMS schema.
+
+---
+
 ## Overview
 
 PDMS Extraction is a secure, minimal, and auditable data extraction pipeline designed for Patient Data Management Systems (PDMS). It enables reproducible, validated data pulls with a strong paper trail, ensuring data minimization and privacy compliance.
